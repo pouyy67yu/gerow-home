@@ -1363,7 +1363,7 @@ a[class*='lightcase-icon-'].lightcase-icon-close {
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
-    background: #8f6d2b;
+    background: #ffffff;
     -webkit-animation: preloader-inside-white 1s ease-in-out infinite;
     -ms-animation: preloader-inside-white 1s ease-in-out infinite;
     animation: preloader-inside-white 1s ease-in-out infinite;
@@ -3182,7 +3182,7 @@ span.is-active:after {
 }
 
 .ratings i {
-    color: #e4b332;
+    color: #4c7de6;
     font-size: 14px;
 }
 
@@ -3917,21 +3917,21 @@ blockquote {
 
 @-webkit-keyframes colorSplit {
     25% {
-        text-shadow: -0.02em 0 0 #4c7de6, 0.025em 0 0 #8f6d2b;
+        text-shadow: -0.02em 0 0 #4c7de6, 0.025em 0 0 #ffffff;
     }
 
     75% {
-        text-shadow: -0.035em 0 0 #4c7de6, 0.04em 0 0 #8f6d2b;
+        text-shadow: -0.035em 0 0 #4c7de6, 0.04em 0 0 #ffffff;
     }
 }
 
 @keyframes colorSplit {
     25% {
-        text-shadow: -0.02em 0 0 #4c7de6, 0.025em 0 0 #8f6d2b;
+        text-shadow: -0.02em 0 0 #4c7de6, 0.025em 0 0 #ffffff;
     }
 
     75% {
-        text-shadow: -0.035em 0 0 #4c7de6, 0.04em 0 0 #8f6d2b;
+        text-shadow: -0.035em 0 0 #4c7de6, 0.04em 0 0 #ffffff;
     }
 }
 
